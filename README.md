@@ -55,7 +55,7 @@
 <details><summary>Deploy to Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MasterShad0w/F.R.I.D.A.Y">
+<a href="https://heroku.com/deploy?template=https://github.com/MasterShad0w/F.R.I.D.A.Y-Test-1-">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </p>
 </details>
